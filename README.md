@@ -8,4 +8,8 @@ git push -u origin master
 git remote add origin https://github.com/devarajshetty/Commands.git
 git push -u origin master
 git clone -b <branch> <remote_repo>
-$ git checkout -b branch
+git checkout -b branch
+git pull origin deva
+git request-pull origin branch
+
+
