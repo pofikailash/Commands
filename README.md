@@ -11,5 +11,7 @@ git clone -b <branch> <remote_repo>
 git checkout -b branch
 git pull origin deva
 git request-pull origin branch
+chmod -R 777 storage
+chmod -R 777 bootstrap/cache
 
 
